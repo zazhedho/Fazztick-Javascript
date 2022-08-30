@@ -5,13 +5,19 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/zazhedho/fazztick-javascript.git
+git clone https://github.com/zazhedho/Fazztick-Javascript.git
+```
+
+2. Install dependencies
+
+```bash
+npm install
 ```
 
 2. Run the app
 
 ```bash
-node index.js
+npm start
 ```
 
 🌟 You are all set!
